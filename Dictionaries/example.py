@@ -9,5 +9,5 @@ while not off:
     print(alum)
     proccess = input("Continue? Y or N: ").lower()
 
-    if proccess != "Y":
+    if proccess != "y":
         off = True
